@@ -1,0 +1,11 @@
+<layout id="WatchFace">
+    <bitmap id="background" filename="../drawables/casio-background.png"/>
+    <text-area width="10" height="8" id="ampm" x="48" y="114" font="@Fonts.ampm" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_BLACK"/>
+   <text-area width="34" height="40" id="hours" x="59" y="106" font="@Fonts.digital24" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_BLACK" />
+    <text-area width="8" height="34" id="col" x="94" y="106" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_BLACK" />
+    <text-area width="34" height="40" id="minutes" x="103" y="106" font="@Fonts.digital24" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_BLACK" />
+    
+    <text-area width="28" height="30" id="SecLabel" x="142" y="114" font="@Fonts.digital_sec" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_BLACK" />
+    <text-area width="54" height="23" id="DateLabel" x="114" y="84" font="@Fonts.digital_date" justification="Graphics.TEXT_JUSTIFY_RIGHT" color="Graphics.COLOR_BLACK" />
+<text-area width="55" height="23" id="StepsLabel" x="54" y="84" font="@Fonts.digital_date" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_BLACK" />
+</layout>

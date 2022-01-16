@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\Kake Urpola\my-first-garmin\MyMonkey\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="1" lineNum="16" parent="globals/MyMonkeyView" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="1" lineNum="17" parent="globals/MyMonkeyView" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="1" lineNum="18" parent="globals/MyMonkeyView" pc="268435477" symbol="initialize"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="1" lineNum="19" parent="globals/MyMonkeyView" pc="268435493" symbol="initialize"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="2" lineNum="24" parent="globals/MyMonkeyView" pc="268435512" symbol="onLayout"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="2" lineNum="26" parent="globals/MyMonkeyView" pc="268435516" symbol="onLayout"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="3" lineNum="49" parent="globals/MyMonkeyView" pc="268435554" symbol="onShow"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="53" parent="globals/MyMonkeyView" pc="268435559" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="55" parent="globals/MyMonkeyView" pc="268435563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="57" parent="globals/MyMonkeyView" pc="268435580" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="58" parent="globals/MyMonkeyView" pc="268435597" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="61" parent="globals/MyMonkeyView" pc="268435628" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="62" parent="globals/MyMonkeyView" pc="268435638" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="63" parent="globals/MyMonkeyView" pc="268435645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="64" parent="globals/MyMonkeyView" pc="268435657" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="65" parent="globals/MyMonkeyView" pc="268435668" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="66" parent="globals/MyMonkeyView" pc="268435678" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="68" parent="globals/MyMonkeyView" pc="268435688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="75" parent="globals/MyMonkeyView" pc="268435698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="76" parent="globals/MyMonkeyView" pc="268435722" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="78" parent="globals/MyMonkeyView" pc="268435736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="79" parent="globals/MyMonkeyView" pc="268435760" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="81" parent="globals/MyMonkeyView" pc="268435783" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="82" parent="globals/MyMonkeyView" pc="268435807" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="83" parent="globals/MyMonkeyView" pc="268435824" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="84" parent="globals/MyMonkeyView" pc="268435848" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="86" parent="globals/MyMonkeyView" pc="268435882" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="87" parent="globals/MyMonkeyView" pc="268435906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="88" parent="globals/MyMonkeyView" pc="268435930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="90" parent="globals/MyMonkeyView" pc="268435944" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="91" parent="globals/MyMonkeyView" pc="268435968" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="92" parent="globals/MyMonkeyView" pc="268436056" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="94" parent="globals/MyMonkeyView" pc="268436070" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="95" parent="globals/MyMonkeyView" pc="268436094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="96" parent="globals/MyMonkeyView" pc="268436117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="4" lineNum="99" parent="globals/MyMonkeyView" pc="268436140" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="5" lineNum="105" parent="globals/MyMonkeyView" pc="268436161" symbol="onHide"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="6" lineNum="109" parent="globals/MyMonkeyView" pc="268436166" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="7" lineNum="113" parent="globals/MyMonkeyView" pc="268436171" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="8" lineNum="9" parent="globals/MyMonkeyView" pc="268437896" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyView.mc" id="8" lineNum="9" parent="globals/MyMonkeyView" pc="268437896" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="10" lineNum="7" parent="globals/MyMonkeyApp" pc="268436176" symbol="initialize"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="10" lineNum="8" parent="globals/MyMonkeyApp" pc="268436180" symbol="initialize"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="11" lineNum="12" parent="globals/MyMonkeyApp" pc="268436199" symbol="onStart"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="12" lineNum="16" parent="globals/MyMonkeyApp" pc="268436204" symbol="onStop"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="13" lineNum="20" parent="globals/MyMonkeyApp" pc="268436209" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="13" lineNum="21" parent="globals/MyMonkeyApp" pc="268436213" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="14" lineNum="5" parent="globals/MyMonkeyApp" pc="268437915" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="14" lineNum="5" parent="globals/MyMonkeyApp" pc="268437915" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="15" lineNum="26" parent="globals" pc="268436251" symbol="getApp"/>
+<entry filename="C:\\Users\\Kake Urpola\\my-first-garmin\\MyMonkey\\source\\MyMonkeyApp.mc" id="15" lineNum="27" parent="globals" pc="268436263" symbol="getApp"/>
+<entry filename="Rez" id="17" lineNum="2" parent="globals/Rez/Drawables" pc="268437890" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="18" lineNum="7" parent="globals/Rez/Fonts" pc="268437892" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="19" lineNum="14" parent="globals/Rez/JsonData" pc="268437894" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="20" lineNum="23" parent="globals/Rez/Layouts" pc="268436280" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="24" parent="globals/Rez/Layouts" pc="268436292" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="25" parent="globals/Rez/Layouts" pc="268436333" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="26" parent="globals/Rez/Layouts" pc="268436374" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="27" parent="globals/Rez/Layouts" pc="268436415" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="29" parent="globals/Rez/Layouts" pc="268436456" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="30" parent="globals/Rez/Layouts" pc="268436535" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="31" parent="globals/Rez/Layouts" pc="268436711" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="32" parent="globals/Rez/Layouts" pc="268436887" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="33" parent="globals/Rez/Layouts" pc="268437073" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="34" parent="globals/Rez/Layouts" pc="268437249" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="35" parent="globals/Rez/Layouts" pc="268437425" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="36" parent="globals/Rez/Layouts" pc="268437601" symbol="WatchFace"/>
+<entry filename="Rez" id="20" lineNum="38" parent="globals/Rez/Layouts" pc="268437777" symbol="WatchFace"/>
+<entry filename="Rez" id="21" lineNum="16" parent="globals/Rez/Layouts" pc="268437893" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="22" lineNum="43" parent="globals/Rez/Menus" pc="268437891" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="23" lineNum="45" parent="globals/Rez/Strings" pc="268437895" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268437866" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="24" lineNum="1" parent="globals/Rez" pc="268437866" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="10" object="true" symbol="MyMonkeyApp"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="20" symbol="font_sec"/>
+<entry id="8389345" symbol="rezId"/>
+<entry field="true" id="14" symbol="digital24"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="21" symbol="font_date"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="16" symbol="digital_date"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="8389892" symbol="background"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="9" object="true" symbol="MyMonkeyView"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry field="true" id="19" symbol="font24"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry field="true" id="15" symbol="digital_sec"/>
+<entry field="true" id="17" symbol="ampm"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435510" name="settings" stackId="1" startPc="268435460"/>
+<entry arg="true" endPc="268435553" name="dc" stackId="1" startPc="268435512"/>
+<entry endPc="268436159" name="secString" stackId="12" startPc="268435563"/>
+<entry endPc="268436159" name="now" stackId="3" startPc="268435563"/>
+<entry endPc="268436159" name="info" stackId="4" startPc="268435563"/>
+<entry endPc="268436159" name="col" stackId="9" startPc="268435563"/>
+<entry endPc="268436159" name="dateStr" stackId="14" startPc="268435563"/>
+<entry endPc="268436159" name="date" stackId="13" startPc="268435563"/>
+<entry endPc="268436159" name="clockTime" stackId="2" startPc="268435563"/>
+<entry endPc="268436159" name="minutes" stackId="10" startPc="268435563"/>
+<entry endPc="268436159" name="hour" stackId="5" startPc="268435563"/>
+<entry endPc="268436159" name="am" stackId="6" startPc="268435563"/>
+<entry endPc="268436159" name="sec" stackId="11" startPc="268435563"/>
+<entry endPc="268436159" name="ampm" stackId="7" startPc="268435563"/>
+<entry endPc="268436159" name="steps" stackId="15" startPc="268435563"/>
+<entry endPc="268436159" name="hours" stackId="8" startPc="268435563"/>
+<entry endPc="268436159" name="stepStr" stackId="16" startPc="268435563"/>
+<entry arg="true" endPc="268436160" name="dc" stackId="1" startPc="268435559"/>
+<entry arg="true" endPc="268436203" name="state" stackId="1" startPc="268436199"/>
+<entry arg="true" endPc="268436208" name="state" stackId="1" startPc="268436204"/>
+<entry endPc="268437863" name="local_Rez_Fonts_digital_date" stackId="3" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_bitmap_background" stackId="6" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_textarea_DateLabel" stackId="12" startPc="268436292"/>
+<entry endPc="268437863" name="local_Rez_Fonts_digital_sec" stackId="4" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_textarea_minutes" stackId="10" startPc="268436292"/>
+<entry endPc="268437863" name="local_Rez_Fonts_digital24" stackId="5" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_textarea_SecLabel" stackId="11" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_textarea_col" stackId="9" startPc="268436292"/>
+<entry endPc="268437863" name="local_Rez_Fonts_ampm" stackId="2" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_textarea_ampm" stackId="7" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_textarea_hours" stackId="8" startPc="268436292"/>
+<entry endPc="268437863" name="rez_cmp_local_textarea_StepsLabel" stackId="13" startPc="268436292"/>
+<entry arg="true" endPc="268437864" name="dc" stackId="1" startPc="268436280"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="background"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="digital24"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="digital_sec"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="digital_date"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="ampm"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="378" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="417" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="448" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/MyMonkeyView" offset="487" parentId="globals" symbolId="MyMonkeyView" type="class"/>
+<dataEntry label="globals/MyMonkeyApp" offset="614" parentId="globals" symbolId="MyMonkeyApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435511" name="initialize" parent="MyMonkeyView" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435553" name="onLayout" parent="MyMonkeyView" startPc="268435512">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435558" name="onShow" parent="MyMonkeyView" startPc="268435554">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436160" name="onUpdate" parent="MyMonkeyView" startPc="268435559">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436165" name="onHide" parent="MyMonkeyView" startPc="268436161">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436170" name="onExitSleep" parent="MyMonkeyView" startPc="268436166">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436175" name="onEnterSleep" parent="MyMonkeyView" startPc="268436171">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437914" name="&lt;init&gt;" parent="MyMonkeyView" startPc="268437896">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436198" name="initialize" parent="MyMonkeyApp" startPc="268436176">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436203" name="onStart" parent="MyMonkeyApp" startPc="268436199">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436208" name="onStop" parent="MyMonkeyApp" startPc="268436204">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436250" name="getInitialView" parent="MyMonkeyApp" startPc="268436209">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437933" name="&lt;init&gt;" parent="MyMonkeyApp" startPc="268437915">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436279" name="getApp" startPc="268436251">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437890" name="&lt;init&gt;" parent="Drawables" startPc="268437890">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437892" name="&lt;init&gt;" parent="Fonts" startPc="268437892">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437894" name="&lt;init&gt;" parent="JsonData" startPc="268437894">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437864" name="WatchFace" parent="Layouts" startPc="268436280">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437893" name="&lt;init&gt;" parent="Layouts" startPc="268437893">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437891" name="&lt;init&gt;" parent="Menus" startPc="268437891">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437895" name="&lt;init&gt;" parent="Strings" startPc="268437895">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437889" name="&lt;init&gt;" parent="Rez" startPc="268437866">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

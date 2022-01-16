@@ -1,0 +1,6 @@
+<resources>
+<font id="digital24" filename="fonts/ds_digital_24.fnt" filter="012345IO6789:" />
+<font id="digital_sec" filename="fonts/ds_digital_sec.fnt" filter="0123456789:-JANFEBMRPYULGSPOCTNVD" />
+<font id="digital_date" filename="fonts/ds_digital_date.fnt" filter="0123456789:-/JANFEBMRPYULGSPOCTNVD" />
+<font id="ampm" filename="fonts/ampm.fnt"/>
+</resources>
